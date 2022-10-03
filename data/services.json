@@ -1,0 +1,51 @@
+[
+    {
+        "icon":"/static/icons/python.svg",
+        "title":"Python Development"
+    },
+    {
+        "icon":"/static/icons/machine-learning.svg",
+        "title":"Machine Learning & AI"
+    },
+    {
+        "icon":"/static/icons/django.svg",
+        "title":"Django Development"
+    },
+    {
+        "icon":"/static/icons/big-data.svg",
+        "title":"Big Data & Analytics"
+    },
+    {
+        "icon":"/static/icons/sass.svg",
+        "title":"Saas Development"
+    },
+    {
+        "icon":"/static/icons/c++.svg",
+        "title":"C/C++"
+    },
+    {
+        "icon":"/static/icons/bussiness-inteligence.svg",
+        "title":"Business Inteligence"
+    },
+    {
+        "icon":"/static/icons/mobile.svg",
+        "title":"Mobile App Development"
+    },
+    {
+        "icon":"/static/icons/frontend.svg",
+        "title":"Front End Development"
+    },
+    {
+        "icon":"/static/icons/js.svg",
+        "title":"Javascript Development"
+    },
+    {
+        "icon":"/static/icons/ts.svg",
+        "title":"Typescript Development"
+    },
+    {
+        "icon":"/static/icons/react.svg",
+        "title":"React"
+    }
+    
+]
