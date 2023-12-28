@@ -1,34 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## DataLite Lending Page Project
 
-## Getting Started
+Welcome to the Company Lending Page project! This project is built using TypeScript and JavaScript to create a dynamic lending page for our company and showcase our services. Follow the steps below to set up the project on your local machine.
+Table of Contents
 
-First, run the development server:
+    Introduction
+    Installation
+        Prerequisites
+        Clone the Repository
+        Install Dependencies
+    Usage
+    Contributing
+    License
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Introduction
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is designed to create an engaging lending page for our company. It incorporates TypeScript for a structured and statically typed codebase, and JavaScript for dynamic functionality. The lending page introduces our company and its services in an interactive and user-friendly manner.
+Installation
+Prerequisites
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Make sure you have the following installed on your machine:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+    Node.js - v14.17.0 or higher
+    npm - v6.14.13 or higher
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Clone the Repository
 
-## Learn More
+  git clone https://github.com/Mika707/datalite-page.git
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  cd datalite-page
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Install Dependencies
 
-## Deploy on Vercel
+## Install project dependencies using npm:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  npm install
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Usage
+
+After completing the installation steps, you can run the project locally. Use the following commands:
+Development Mode
+
+  npm run dev
+
+This will start a development server, and you can access the lending page at http://localhost:3000.
+Production Build
+
+
+
+  npm run build
+  npm start
+
+This will build the project for production and start a server.
+Contributing
+
+We welcome contributions to enhance the lending page. To contribute, follow these steps:
+
+    Fork the repository.
+    Create a new branch for your feature or bug fix: git checkout -b feature-name.
+    Make your changes and commit them: git commit -m 'Add new feature'.
+    Push to the branch: git push origin feature-name.
+    Create a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+Feel free to explore and customize the lending page according to your company's needs. Happy coding!
+
