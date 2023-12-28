@@ -34,26 +34,18 @@ Make sure you have the following installed on your machine:
 
 ## Install project dependencies using npm:
 
-    npm install
+    yarn install
 
 ## Usage
 
 After completing the installation steps, you can run the project locally. Use the following commands:
 Development Mode
 
-    npm run dev
+    yarn run dev
 
 This will start a development server, and you can access the lending page at http://localhost:3000.
 Production Build
 
-
-
-    npm run build
-    
-    npm start
-
-This will build the project for production and start a server.
-Contributing
 
 
 ## License
