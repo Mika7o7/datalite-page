@@ -25,7 +25,7 @@ Make sure you have the following installed on your machine:
 
 ## Clone the Repository
 
-    git clone https://github.com/Mika707/datalite-page.git
+    git clone https://github.com/Mika7o7/datalite-page.git
 
 
     cd datalite-page
