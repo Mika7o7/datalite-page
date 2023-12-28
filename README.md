@@ -5,9 +5,9 @@ Table of Contents
 
     Introduction
     Installation
-        Prerequisites
-        Clone the Repository
-        Install Dependencies
+    Prerequisites
+    Clone the Repository
+    Install Dependencies
     Usage
     Contributing
     License
@@ -25,42 +25,36 @@ Make sure you have the following installed on your machine:
 
 ## Clone the Repository
 
-  git clone https://github.com/Mika707/datalite-page.git
+    git clone https://github.com/Mika707/datalite-page.git
 
 
-  cd datalite-page
+    cd datalite-page
 
 ## Install Dependencies
 
 ## Install project dependencies using npm:
 
-  npm install
+    npm install
 
 ## Usage
 
 After completing the installation steps, you can run the project locally. Use the following commands:
 Development Mode
 
-  npm run dev
+    npm run dev
 
 This will start a development server, and you can access the lending page at http://localhost:3000.
 Production Build
 
 
 
-  npm run build
-  npm start
+    npm run build
+    
+    npm start
 
 This will build the project for production and start a server.
 Contributing
 
-We welcome contributions to enhance the lending page. To contribute, follow these steps:
-
-    Fork the repository.
-    Create a new branch for your feature or bug fix: git checkout -b feature-name.
-    Make your changes and commit them: git commit -m 'Add new feature'.
-    Push to the branch: git push origin feature-name.
-    Create a pull request.
 
 ## License
 
